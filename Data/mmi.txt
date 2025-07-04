@@ -1,0 +1,3 @@
+Current MMI = 63.64
+Change in MMI = From 70.3 to 63.6
+Change in NIFTY = -177 (0.69%)
