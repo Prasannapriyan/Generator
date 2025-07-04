@@ -4,7 +4,7 @@ POPULAR CURRENCIES vs. INR
 
 Code  | Name                      | Country                   | Value (1 unit in INR)
 ------------------------------------------------------------------------------------
-USD   | United States Dollar      | United States             | ₹85.56
+USD   | United States Dollar      | United States             | ₹87.56
 JPY   | Japanese Yen              | Japan                     | ₹0.60
 EUR   | Euro                      | Europe                    | ₹100.94
 SGD   | Singapore Dollar          | Singapore                 | ₹67.26
