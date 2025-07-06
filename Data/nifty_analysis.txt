@@ -1,4 +1,4 @@
-NIFTY50 Current Value : 25467.80
+NIFTY50 Current Value : 25461.00
 Resistance 1 : 25631.95
 Resistance 2 : 25600.00
 Support 1 : 25333.60
