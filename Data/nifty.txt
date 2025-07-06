@@ -1,0 +1,15 @@
+NIFTY 50 DASHBOARD DATA
+PRICE INFORMATION
+Current Price: ₹25,461.00
+Previous Close: ₹25,405.30
+Open: ₹25,428.85
+Change: ₹+55.70 (+0.22%)
+
+INTRADAY RANGE
+High: ₹25,470.25
+Low: ₹25,331.65
+Volume: 1.94 Lakhs
+
+52-WEEK RANGE
+High: ₹26,277.35
+Low: ₹21,743.65
