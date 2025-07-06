@@ -3,7 +3,7 @@ PRICE INFORMATION
 Current Price: ₹25,461.00
 Previous Close: ₹25,405.30
 Open: ₹25,428.85
-Change: ₹+55.70 (+0.22%)
+Change: ₹-55.70 (-0.22%)
 
 INTRADAY RANGE
 High: ₹25,470.25
