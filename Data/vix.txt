@@ -1,6 +1,6 @@
 INDIA VIX ANALYSIS
 ========================================
 
-Current Value:    12.32
-Open:            12.38
-Change:          -0.06 (-0.48%)
+Current Value:    11.25
+Open:            11.48
+Change:          -0.23 (-2.00%)
