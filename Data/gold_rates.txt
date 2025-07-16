@@ -3,7 +3,7 @@ CHENNAI GOLD RATE REPORT
 
 [Today's Gold Rate (per gram)]
 ------------------------------------------------------------
-24K Gold: ₹9,928 (Change: ₹49 ▼)
+24K Gold: ₹9,928 (Change: ₹-49 ▼)
 22K Gold: ₹9,100 (Change: ₹45 ▼)
 
 [Gold Rate in Chennai for Last 10 Days (1 gram)]
