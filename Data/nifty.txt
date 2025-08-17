@@ -1,6 +1,6 @@
 KAUSHIC 50 DASHBOARD DATA
 PRICE INFORMATION
-Current Price: ₹25,461.00
+Current Price: ₹25,801.00
 Previous Close: ₹25,405.30
 Open: ₹25,428.85
 Change: ₹-55.70 (-0.22%)
